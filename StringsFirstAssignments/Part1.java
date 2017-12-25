@@ -1,7 +1,7 @@
 
 /**
  * Finds a gene in a dna sample and printd the first found gene or else an empty string
- * Run in BlueJ
+ * 
  * @author Kruttika 
  * @version 18/12/12017
  */

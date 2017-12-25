@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Part4
+comment0.text=\r\n\ Checks\ to\ see\ if\ youtube.com\ is\ in\ each\ string\ and\ if\ it\ is\ then\ the\ url\ is\ printed\r\n
+comment1.params=
+comment1.target=void\ URL()
+numComments=2

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Part2
+comment0.text=\r\n\ Similar\ to\ part1\ but\ here\ if\ dna\ is\ in\ lower\ case\ then\ gene\ should\ also\ be\ printed\ in\ lower\ case.\r\nAlso,\ to\ parameters\ startCodon\ and\ topCodon\ are\ added\ \r\n\ \ \r\n\r\n
+comment1.params=dna\ startCodon\ stopCodon
+comment1.target=java.lang.String\ findSimpleGene(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ testSimpleGene()
+numComments=3
